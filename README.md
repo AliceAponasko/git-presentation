@@ -1,4 +1,6 @@
-# Git Resources
+This is a talk I gave on Git version control system @ [Bootcampers Collective](https://github.com/BootcampersCollective). 
+
+### Resources
 
 [Git](https://git-scm.com/)
 
